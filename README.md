@@ -84,12 +84,10 @@ python acerte_alvo.py
 ### Pong
 <img width="1273" height="646" alt="image" src="https://github.com/user-attachments/assets/b34a4f13-13f6-4766-998b-73292c9aaf23" />
 
-![Pong Screenshot](assets/imagens/pong.png)
 
 ### Acerte o Alvo
 <img width="1268" height="602" alt="image" src="https://github.com/user-attachments/assets/0a6db0fc-e10a-42e0-aaa9-b2785385f18c" />
 
-![Acerte o Alvo Screenshot](assets/imagens/acerte_o_alvo.png)
 
 ---
 
