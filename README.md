@@ -127,8 +127,8 @@ Sinta-se à vontade para usar, estudar e modificar.
 ## 👤 Autor
 
 **Nando Mendes**
-GitHub: [https://github.com/SEU-USUARIO](https://github.com/SEU-USUARIO)
-LinkedIn: [https://www.linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/SEU-USUARIO)
+GitHub: [[https://github.com/SEU-USUARIO](https://github.com/SEU-USUARIO)](https://github.com/nandomendes78)
+LinkedIn: [[https://www.linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/SEU-USUARIO)](https://www.linkedin.com/in/nando-mendes-9b1394261/)
 
 
 
