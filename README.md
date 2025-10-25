@@ -52,9 +52,9 @@ python pong.py
 python acerte_alvo.py
 ```
 
-* Clique no alvo vermelho para somar pontos.
+* Clique no alvo branco para somar pontos.
 * O alvo muda de posição aleatoriamente a cada acerto.
-* Opcional: som de acerto (`acerto.wav`) na mesma pasta do script.
+* Opcional: som de acerto (`efect.wav`) na mesma pasta do script.
 
 > 💡 Se o áudio falhar, o jogo continua normalmente (o código trata a ausência do mixer/arquivo).
 
@@ -82,10 +82,12 @@ python acerte_alvo.py
 > Substitua as imagens abaixo quando fizer seus prints (salve em `assets/imagens/` ou ajuste os caminhos).
 
 ### Pong
+<img width="1273" height="646" alt="image" src="https://github.com/user-attachments/assets/b34a4f13-13f6-4766-998b-73292c9aaf23" />
 
 ![Pong Screenshot](assets/imagens/pong.png)
 
 ### Acerte o Alvo
+<img width="1268" height="602" alt="image" src="https://github.com/user-attachments/assets/0a6db0fc-e10a-42e0-aaa9-b2785385f18c" />
 
 ![Acerte o Alvo Screenshot](assets/imagens/acerte_o_alvo.png)
 
